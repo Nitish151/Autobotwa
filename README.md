@@ -4,8 +4,8 @@ A modern, responsive landing page built with Next.js and Tailwind CSS, showcasin
 
 ## 🚀 Live Demo
 
-- **Deployed Link**: 
-- **Repository**: 
+- **Deployed Link**: https://autobotwa-git-main-nitish-sharmas-projects-eb97a2a1.vercel.app
+- **Repository**: https://github.com/Nitish151/Autobotwa
 
 ## 📋 Assignment Requirements
 
